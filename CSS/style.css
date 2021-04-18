@@ -1,0 +1,21 @@
+body{
+    background-color: salmon;
+}
+
+footer{
+    color:lightgrey;
+    text-align: center;
+    font-family:'cursive';
+    font-size: larger;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+}
+
+
+hr{
+    display: block;
+    background-image: url(https://raw.githubusercontent.com/LTUC/amman-201d22/main/class-10/lab-a/lab-assets/hr-img.png);
+    border: 0px; 
+    height: 15px;
+    width: 75%;
+    margin-top: 2%;
+ }
